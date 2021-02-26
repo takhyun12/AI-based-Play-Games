@@ -13,13 +13,13 @@ This project follows the description of the Deep Q Learning algorithm described 
 
 ## How to Run?
 ```python
-1) This project's method
-$ python main.py
+# 1) This project's method
+python main.py
 
-2) This is original method
-$ git clone https://github.com/yenchenlin1994/DeepLearningFlappyBird.git
-$ cd DeepLearningFlappyBird
-$ python deep_q_network.py
+# 2) This is original method
+git clone https://github.com/yenchenlin1994/DeepLearningFlappyBird.git
+cd DeepLearningFlappyBird
+python deep_q_network.py
 ```
 
 ## What is Deep Q-Network?

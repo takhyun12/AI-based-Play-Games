@@ -1,4 +1,4 @@
-# Using Deep Q-Network to Learn How To Play Flappy Bird
+# Q-Network based Play Flappy Bird
 
 ![flappy_bird_demp](https://user-images.githubusercontent.com/41291493/109271240-98bb5f80-7852-11eb-8ca6-38754bb1832e.gif)
 

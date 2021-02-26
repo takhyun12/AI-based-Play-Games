@@ -12,7 +12,7 @@ This project follows the description of the Deep Q Learning algorithm described 
 * OpenCV-Python
 
 ## How to Run?
-```
+```python
 1) This project's method
 $ python main.py
 
